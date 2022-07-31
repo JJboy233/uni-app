@@ -50,7 +50,7 @@
 
 `uni-app`有丰富的插件生态，众多开发者提交了数千款组件、sdk、项目模板，详见：[https://ext.dcloud.net.cn/](https://ext.dcloud.net.cn/)
 
-除了众多三方ui库，官方还提供了uni-ui，在性能和跨端兼容方面有更强的优势。详见：[https://ext.dcloud.net.cn/plugin?id=55](https://ext.dcloud.net.cn/plugin?id=55)
+除了众多第三方ui库，官方还提供了uni-ui，在性能和跨端兼容方面有更强的优势。详见：[https://ext.dcloud.net.cn/plugin?id=55](https://ext.dcloud.net.cn/plugin?id=55)
 
 ## 现有项目如何迁移到uni-app体系
 
